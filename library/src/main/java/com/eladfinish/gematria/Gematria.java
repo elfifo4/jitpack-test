@@ -1,6 +1,6 @@
 package com.eladfinish.gematria;
 
-public class Gemtria {
+public class Gematria {
     //    gematria, gimatria
     // convert number to hebrew letters
     public static String getOtiot(int num) {
